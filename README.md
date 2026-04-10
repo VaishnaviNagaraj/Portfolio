@@ -1,4 +1,4 @@
-# Vaishnavi N S — Product Management Portfolio
+# Vaishnavi N S - Product Management Portfolio
 
 A personal portfolio website showcasing my work as a Product Manager with 8+ years of experience in B2B SaaS.
 
